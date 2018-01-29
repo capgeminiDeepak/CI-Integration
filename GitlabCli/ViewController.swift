@@ -12,7 +12,7 @@ import UIKit
 //dasdhsajdsakjh
 
 // Jenkins please retry a build
-// Sample chnages done for checking
+Sample chnages done for checking
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
